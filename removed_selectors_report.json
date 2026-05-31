@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "html_files_scanned": 30,
+    "removed_selectors_count": 1229,
+    "removed_classes_count": 1067,
+    "removed_ids_count": 0,
+    "files_with_removed_usage": 3
+  },
+  "details": {
+    "not-in-use/detail_passion-projects.html": {
+      "removed_classes_used": [
+        "list-item-2",
+        "list-item-3",
+        "list-item-4"
+      ],
+      "removed_ids_used": []
+    },
+    "not-in-use/my-work-current-copy.html": {
+      "removed_classes_used": [
+        "image-121",
+        "nav-menu-wrapper",
+        "shadow-three"
+      ],
+      "removed_ids_used": []
+    },
+    "not-in-use/old-home-3.html": {
+      "removed_classes_used": [
+        "image-121",
+        "nav-menu-wrapper",
+        "shadow-three"
+      ],
+      "removed_ids_used": []
+    }
+  }
+}
